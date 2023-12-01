@@ -1,6 +1,7 @@
 /target
 /classes
 /checkouts
+/.idea/**
 profiles.clj
 pom.xml
 pom.xml.asc
@@ -11,5 +12,3 @@ pom.xml.asc
 /.prepl-port
 .hgignore
 .hg/
-CHANGELOG.md
-*.iml

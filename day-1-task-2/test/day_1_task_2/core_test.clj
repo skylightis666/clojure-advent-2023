@@ -4,4 +4,7 @@
 
 (deftest a-test
     (is (= (solve "resources/test1")
-           281)))
+           281))
+
+    (is (= (solve "resources/test2")
+           54418)))

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05184d62-9eff-42b5-a039-d51e64eb5327" name="Changes" comment="day-3-task-1 done">
+      <change afterPath="$PROJECT_DIR$/day-3-task-1/resources/test1withhalf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-3-task-1/resources/test2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-3-task-2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-3-task-2/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-3-task-2/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-3-task-2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-3-task-2/day-3-task-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-3-task-2/doc/intro.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-3-task-2/project.clj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-3-task-2/resources/test1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-3-task-2/resources/test2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-3-task-2/src/day_3_task_2/core.clj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day-3-task-2/test/day_3_task_2/core_test.clj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2YwvOalXKbFU79pBgkmOlu3Dk2F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Ivan/IdeaProjects/clojure-advent-2023/day-1-task-1/project.clj",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "com.obiscr.chatgpt.settings.commandActions"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ivan\IdeaProjects\clojure-advent-2023\day-1-task-1" />
+    </key>
+  </component>
+  <component name="ReplState" timestamp="1701646713362">{:repl-history {:ide [], :local [], :remote []}}</component>
+  <component name="RunManager" selected="Clojure REPL.day-3-task-2">
+    <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="bbPath" value="" />
+      <setting name="parameters" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <setting name="workingDir" value="" />
+      <setting name="focusEditor" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <option name="configVersion" value="1" />
+      <option name="options" />
+      <option name="profiles" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="replPortFileType" value="STANDARD" />
+      <setting name="customPortFile" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="focusEditor" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day-1-task-1" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <option name="configVersion" value="1" />
+      <option name="displayName" value="day-1-task-1" />
+      <module name="day-1-task-1" />
+      <option name="options" />
+      <option name="profiles" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day-1-task-1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day-1-task-2" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <option name="configVersion" value="1" />
+      <option name="displayName" value="day-1-task-2" />
+      <module name="day-1-task-1" />
+      <option name="options" />
+      <option name="profiles" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day-1-task-1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day-2-task-1" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <option name="configVersion" value="1" />
+      <option name="displayName" value="day-2-task-1" />
+      <module name="day-2-task-1" />
+      <option name="options" />
+      <option name="profiles" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day-2-task-1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day-2-task-2" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <option name="configVersion" value="1" />
+      <option name="displayName" value="day-2-task-2" />
+      <module name="day-2-task-2" />
+      <option name="options" />
+      <option name="profiles" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day-2-task-2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day-3-task-1" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <option name="configVersion" value="1" />
+      <option name="displayName" value="day-3-task-1" />
+      <module name="day-3-task-1" />
+      <option name="options" />
+      <option name="profiles" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day-3-task-1" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day-3-task-2" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <option name="configVersion" value="1" />
+      <option name="displayName" value="day-3-task-2" />
+      <module name="day-3-task-2" />
+      <option name="options" />
+      <option name="profiles" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day-3-task-2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run tests in day-1-task-2.core-test" type="ClojureTestRunConfiguration" factoryName="clojure.test" temporary="true">
+      <module name="day-1-task-2" />
+      <option name="namespace" value="day-1-task-2.core-test" />
+      <option name="options" />
+      <option name="profiles" />
+      <option name="selector" value="SINGLE_NS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day-1-task-2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run tests in day-2-task-2.core-test" type="ClojureTestRunConfiguration" factoryName="clojure.test" temporary="true">
+      <module name="day-2-task-2" />
+      <option name="namespace" value="day-2-task-2.core-test" />
+      <option name="options" />
+      <option name="profiles" />
+      <option name="selector" value="SINGLE_NS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day-2-task-2" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Clojure REPL.day-2-task-1" />
+      <item itemvalue="Clojure REPL.day-3-task-1" />
+      <item itemvalue="Clojure REPL.day-3-task-2" />
+      <item itemvalue="Clojure REPL.day-2-task-2" />
+      <item itemvalue="Clojure REPL.day-1-task-2" />
+      <item itemvalue="Clojure REPL.day-1-task-1" />
+      <item itemvalue="clojure.test.Run tests in day-2-task-2.core-test" />
+      <item itemvalue="clojure.test.Run tests in day-1-task-2.core-test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="clojure.test.Run tests in day-2-task-2.core-test" />
+        <item itemvalue="clojure.test.Run tests in day-1-task-2.core-test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05184d62-9eff-42b5-a039-d51e64eb5327" name="Changes" comment="" />
+      <created>1701449426327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701449426327</updated>
+      <workItem from="1701449427339" duration="6093000" />
+      <workItem from="1701521583925" duration="14250000" />
+      <workItem from="1701627291904" duration="14131000" />
+    </task>
+    <task id="LOCAL-00001" summary="Correct gitignore">
+      <option name="closed" value="true" />
+      <created>1701451351508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701451351508</updated>
+    </task>
+    <task id="LOCAL-00002" summary="day-1-task-2 done">
+      <option name="closed" value="true" />
+      <created>1701454794831</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701454794831</updated>
+    </task>
+    <task id="LOCAL-00003" summary="day-1-task-2 beautify">
+      <option name="closed" value="true" />
+      <created>1701522660895</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701522660895</updated>
+    </task>
+    <task id="LOCAL-00004" summary="day-2-task-2 done">
+      <option name="closed" value="true" />
+      <created>1701537207303</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701537207303</updated>
+    </task>
+    <task id="LOCAL-00005" summary="day-2-task-2 done, prev was task-1">
+      <option name="closed" value="true" />
+      <created>1701540200205</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701540200205</updated>
+    </task>
+    <task id="LOCAL-00006" summary="day-3-task-1 done">
+      <option name="closed" value="true" />
+      <created>1701640097852</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1701640097852</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Correct gitignore" />
+    <MESSAGE value="day-1-task-2 done" />
+    <MESSAGE value="day-1-task-2 beautify" />
+    <MESSAGE value="day-2-task-2 done" />
+    <MESSAGE value="day-2-task-2 done, prev was task-1" />
+    <MESSAGE value="day-3-task-1 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="day-3-task-1 done" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

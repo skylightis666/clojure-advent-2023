@@ -41,7 +41,14 @@
 
 (defn solve [file-name]
     (with-open [rdr (clojure.java.io/reader file-name)]
-        (reduce + (map (comp game-power (partial partition 2 2) flatten :sets input-line->map) (line-seq rdr)))))
+        (->> rdr
+             line-seq
+             (map (comp game-power
+                        (partial partition 2 2)
+                        flatten
+                        :sets
+                        input-line->map))
+             (reduce +))))
 
 (comment
     (solve "resources/test1")
